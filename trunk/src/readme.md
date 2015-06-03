@@ -1,0 +1,3 @@
+## Lincon
+
+Write nice code!

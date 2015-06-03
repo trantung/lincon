@@ -1,0 +1,9 @@
+.DS_Store
+*.komodoproject
+tmp
+public_html/oya/img/wp/*
+public_html/oya-admin/wp/wp-content/cache/db
+public_html/oya-admin/wp/wp-content/cache/object
+log/*
+public_html/oya-admin/wp/wp-content/cache/config/index.html
+public_html/oya-admin/wp/wp-content/cache/config/master.php
